@@ -1,9 +1,9 @@
-package psychegrammer.example.uniprevoz
+package psychegrammer.example.uniprevoz.Controller
 
 import android.content.Intent
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_main.*
+import psychegrammer.example.uniprevoz.R
 
 class MainActivity : BaseActivity() {
 

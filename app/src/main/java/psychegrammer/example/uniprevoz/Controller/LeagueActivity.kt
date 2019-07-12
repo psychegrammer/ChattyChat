@@ -1,12 +1,13 @@
-package psychegrammer.example.uniprevoz
+package psychegrammer.example.uniprevoz.Controller
 
 import android.content.Intent
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
 import android.widget.Toast.makeText
 import kotlinx.android.synthetic.main.activity_league.*
+import psychegrammer.example.uniprevoz.Utillities.EXTRA_LEAGUE
+import psychegrammer.example.uniprevoz.R
 
 class LeagueActivity : BaseActivity() {
 

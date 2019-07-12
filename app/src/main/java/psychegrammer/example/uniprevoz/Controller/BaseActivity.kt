@@ -1,4 +1,4 @@
-package psychegrammer.example.uniprevoz
+package psychegrammer.example.uniprevoz.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
